@@ -74,7 +74,7 @@ Compile and run the program.
 [2] Start New Quiz
 [3] View Previous Results
 [4] Review Solved Quiz
-[5] Logout
+[5] Exit
 ===================================
 ~~~
 
@@ -88,7 +88,7 @@ Compile and run the program.
 [3] Publish Quiz
 [4] View Quiz Reports
 [5] Delete Quiz
-[6] Logout
+[6] Exit
 ===================================
 ~~~
 
@@ -97,12 +97,17 @@ Compile and run the program.
 ===================================
       Admin Main Menu
 ===================================
-[1] View All Students
-[2] View All Teachers
-[3] Add New Admin
-[4] Update Admin Info
-[5] Delete Admin
-[6] Logout
+[1] View Students
+[2] View Teachers
+[3] View Draft Exams
+[4] View Published Exams
+[5] View Deleted Exams
+[6] Add Admin
+[7] Delete Admin
+[8] Update Admin Info
+[9] Delete Teacher
+[10] Delete Student
+[11] Exit
 ===================================
 ~~~
 
